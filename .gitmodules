@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/charlienewey/aber-ftw.git
+[submodule "acs"]
+	path = acs
+	url = https://github.com/charlienewey/acs-js.git
